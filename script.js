@@ -17,4 +17,4 @@ function Clear(){
 }
 function del(){
     outputScreen.value = outputScreen.value.slice(0,-1);
-}
+} 
